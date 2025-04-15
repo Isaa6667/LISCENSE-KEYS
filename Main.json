@@ -1,8 +1,13 @@
 {
   "1616161616": {
-    "keys": ["ABC123", "XYZ789"]
+    "keys": [
+      {"key": "ABC123", "expiry": "2025-12-31", "notes": "Primary license key"},
+      {"key": "XYZ789", "expiry": "2025-05-01", "notes": "Backup key"}
+    ]
   },
   "999999999": {
-    "keys": ["TESTKEY1"]
+    "keys": [
+      {"key": "TESTKEY1", "expiry": "2025-06-01", "notes": "Test license"}
+    ]
   }
 }

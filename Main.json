@@ -1,7 +1,6 @@
 {
-  "validKeys": [
-    "ABCD1234",
-    "XYZ9876",
-    "isaacspecialliscensekey"
-  ]
+  "1616161616": {
+    "keys": ["ABC123", "XYZ789"],
+    "owner": "Isaac"
+  }
 }

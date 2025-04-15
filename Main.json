@@ -1,6 +1,8 @@
 {
-  "89145057765131": {
-    "keys": ["ABC123"],
-    "owner": "RiverbankInnRanking"
+  "1616161616": {
+    "users": {
+      "IsaacDevRBX": ["ABC123", "XYZ789"],
+      "AnotherUser": ["GHI456"]
+    }
   }
 }

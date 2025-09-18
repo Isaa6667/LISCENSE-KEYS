@@ -1,5 +1,4 @@
 [
-  {"key": "ABC123"},
-  {"key": "XYZ789"},
-  {"key": "TESTKEY1"}
+  {"key": "ABC123", "notes": "Primary license"},
+  {"key": "XYZ789", "notes": "Backup key"}
 ]
